@@ -4,6 +4,7 @@
 - 🎓 Mechanical Engineering Student at BEC BGK
 - 🛠️ Skills: HTML, CAD, Fusion360, CAM, Git
 - 📫 How to reach me:
--- 🔗 LinkedIn: [Vishwanath Diggavi](https://www.linkedin.com/in/vishwanath-diggavi)
 - 🌐 Portfolio: [My Portfolio Website](https://vishwa-2004.github.io/vishwanath-diggavi.github.io/)
+- 🔗 LinkedIn: [Vishwanath Diggavi](https://www.linkedin.com/in/vishwanath-diggavi)
+- 🔗 Instagram: [Vishwanath Diggavi](https://www.instagram.com/vishwanath_diggavi/)
 - Email: diggavivishwanathd@gmail.com
