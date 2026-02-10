@@ -1,9 +1,8 @@
 # Vishwanath
 # Hi there 👋, I'm Vishwanath
 
-- 🎓 Mechanical Engineering Student at XYZ University
-- 🛠️ Skills: Python, CAD, SolidWorks, AutoCAD, Git
-- 🌱 Currently learning: Programming Languages
+- 🎓 Mechanical Engineering Student at BEC BGK
+- 🛠️ Skills: HTML, CAD, Fusion360, CAM, Git
 - 📫 How to reach me:
 -- 🔗 LinkedIn: [Vishwanath Diggavi](https://www.linkedin.com/in/vishwanath-diggavi)
 - 🌐 Portfolio: [My Portfolio Website](https://vishwa-2004.github.io/vishwanath-diggavi.github.io/)
